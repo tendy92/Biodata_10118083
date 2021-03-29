@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Biodata_10118083</string>
+    <string name="nama">Tendy Hermansyah</string>
+    <string name="nim">10118083</string>
+    <string name="kelas">IF-2</string>
+    <string name="jenis_kelamin">Laki-laki</string>
+    <string name="ttl">Sumedang, 04 Maret 2000</string>
+    <string name="alamat">Sumedang</string>
+    <string name="golongan_darah">Golongan Darah A</string>
+    <string name="makanan">Nasi Goreng</string>
+    <string name="minuman">Kopi Susu</string>
+    <string name="hobi">Baca Komik</string>
+    <string name="lagu">eevnxx - toxic</string>
+    <string name="film">The Night Come For Us</string>
+    <string name="pekerjaan">Punya Usaha Cafe</string>
+</resources>
